@@ -3,65 +3,69 @@
 :root {
   color-scheme: light;
   
-  /* CLÍNICA VIVÁLIA — Deep Pine Teal Spectrum (Extraído diretamente do logotipo) */
-  --brand-teal-primary: #066e69;
-  --brand-teal-hover: #055955;
-  --brand-teal-deep: #044441;
-  --brand-teal-darkest: #022927;
-  --brand-teal-vibrant: #0a8e87;
-  --brand-teal-light: #14a39b;
-  --brand-teal-surface: #f0f8f7;
-  --brand-teal-border: #cde6e4;
+  /* SPLASH PISCINAS — Paleta Primária (Rosa / Magenta Vibrante do Logotipo) */
+  --brand-pink-primary: #e6007e;
+  --brand-pink-hover: #c40065;
+  --brand-pink-dark: #9f004e;
+  --brand-pink-vibrant: #ff1493;
+  --brand-pink-surface: #fdf2f8;
+  --brand-pink-border: #fbcfe8;
   
-  /* CLÍNICA VIVÁLIA — Warm Ochre Gold / Âmbar Acolhedor (Extraído do logotipo) */
-  --brand-gold-primary: #b3844e;
-  --brand-gold-hover: #996d3c;
-  --brand-gold-deep: #7d5427;
-  --brand-gold-light: #d8a46b;
-  --brand-gold-surface: #fbf7f1;
-  --brand-gold-border: #ecd8be;
+  /* SPLASH PISCINAS — Paleta Secundária (Água Cristalina, Gotas & Onda Turquesa/Ciano) */
+  --brand-cyan-primary: #06b6d4;
+  --brand-cyan-wave: #07c9f3;
+  --brand-cyan-hover: #0891b2;
+  --brand-cyan-deep: #0284c7;
+  --brand-cyan-surface: #f0fdff;
+  --brand-cyan-border: #a5f3fc;
   
-  /* Deep Pine Charcoal & Dark Night Canvas */
-  --brand-charcoal-darkest: #051514;
-  --brand-charcoal-deep: #0c201e;
-  --brand-charcoal-card: #122c2a;
-  --brand-charcoal-border: #1e3e3b;
-  --brand-slate-primary: #1e293b;
+  /* SPLASH PISCINAS — Paleta Institucional (Azul iGUi Oficial & Azul Marinho Profundo) */
+  --brand-blue-igui: #0273f1;
+  --brand-blue-deep: #0055b8;
+  --brand-navy-darkest: #041224;
+  --brand-navy-deep: #07172c;
+  --brand-navy-card: #0d2342;
+  --brand-navy-border: #1a3c68;
+
+  /* Avaliações, Selos & Ouro Solar */
+  --brand-amber-gold: #f59e0b;
+  --brand-amber-light: #fef3c7;
+  --brand-amber-surface: #fffbeb;
+  --brand-amber-border: #fde68a;
+
+  /* Neutros e Superfícies */
+  --brand-slate-dark: #0f172a;
   --brand-slate-muted: #64748b;
-  
-  /* Clinical Clean & Sober Canvas */
   --brand-canvas-white: #ffffff;
-  --brand-canvas-light: #f8faf9;
-  --brand-canvas-alt: #f0f4f3;
-  --brand-canvas-border: #e2e8e7;
-  --brand-canvas-ink: #0d1e1c;
-  --brand-canvas-muted: #475a58;
+  --brand-canvas-light: #f8fafc;
+  --brand-canvas-alt: #f1f5f9;
+  --brand-canvas-border: #e2e8f0;
   
-  /* WhatsApp */
+  /* WhatsApp Oficial */
   --brand-whatsapp: #16a34a;
   --brand-whatsapp-hover: #15803d;
 }
 
 @theme inline {
-  --font-serif: var(--font-heading), "Montserrat", system-ui, sans-serif;
-  --font-heading: var(--font-heading), "Montserrat", system-ui, sans-serif;
+  --font-heading: var(--font-heading), "Plus Jakarta Sans", system-ui, sans-serif;
   --font-sans: var(--font-body), "Plus Jakarta Sans", system-ui, sans-serif;
   
-  --color-brand-teal-primary: #066e69;
-  --color-brand-teal-deep: #044441;
-  --color-brand-teal-darkest: #022927;
-  --color-brand-teal-vibrant: #0a8e87;
-  --color-brand-teal-surface: #f0f8f7;
+  --color-brand-pink-primary: #e6007e;
+  --color-brand-pink-hover: #c40065;
+  --color-brand-pink-surface: #fdf2f8;
   
-  --color-brand-gold-primary: #b3844e;
-  --color-brand-gold-deep: #7d5427;
-  --color-brand-gold-surface: #fbf7f1;
+  --color-brand-cyan-wave: #07c9f3;
+  --color-brand-cyan-surface: #f0fdff;
   
-  --color-brand-charcoal-darkest: #051514;
-  --color-brand-charcoal-deep: #0c201e;
-  --color-brand-charcoal-card: #122c2a;
+  --color-brand-blue-igui: #0273f1;
+  --color-brand-blue-deep: #07172c;
+  --color-brand-blue-darkest: #041224;
   
-  --color-brand-canvas-light: #f8faf9;
+  --color-brand-amber-gold: #f59e0b;
+  --color-brand-amber-surface: #fffbeb;
+  
+  --color-brand-navy-card: #0d2342;
+  --color-brand-canvas-light: #f8fafc;
   --color-brand-canvas-surface: #ffffff;
 }
 
@@ -71,22 +75,24 @@ html {
 }
 
 body {
-  background: #f8faf9;
-  color: #0d1e1c;
+  background: #f8fafc;
+  color: #0f172a;
   font-family: var(--font-body), "Plus Jakarta Sans", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 ::selection {
-  background: #066e69;
+  background: #e6007e;
   color: #ffffff;
 }
 
 .font-heading {
-  font-family: var(--font-heading), "Montserrat", sans-serif;
+  font-family: var(--font-heading), "Plus Jakarta Sans", sans-serif;
 }
 
 .eyebrow {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 0.65rem;
   font-size: 0.72rem;
@@ -94,11 +100,11 @@ body {
   line-height: 1.4;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: #066e69;
+  color: #e6007e;
 }
 
 .eyebrow-dark {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 0.65rem;
   font-size: 0.72rem;
@@ -106,14 +112,14 @@ body {
   line-height: 1.4;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: #d8a46b;
+  color: #07c9f3;
 }
 
 .eyebrow::before {
   width: 1.5rem;
   height: 2px;
   flex: none;
-  background: #066e69;
+  background: #e6007e;
   content: "";
   border-radius: 999px;
 }
@@ -122,35 +128,35 @@ body {
   width: 1.5rem;
   height: 2px;
   flex: none;
-  background: #b3844e;
+  background: #07c9f3;
   content: "";
   border-radius: 999px;
 }
 
-/* Glassmorphism & Card Styles */
-.card-clinical {
+/* Card Styles */
+.card-aqua {
   background: #ffffff;
-  border: 1px solid #e2e8e7;
-  box-shadow: 0 1px 3px 0 rgba(6, 110, 105, 0.04), 0 1px 2px -1px rgba(6, 110, 105, 0.04);
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px 0 rgba(230, 0, 126, 0.04), 0 1px 2px -1px rgba(7, 201, 243, 0.05);
   transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.card-clinical:hover {
-  border-color: #cde6e4;
-  box-shadow: 0 10px 25px -5px rgba(6, 110, 105, 0.08), 0 8px 10px -6px rgba(6, 110, 105, 0.04);
+.card-aqua:hover {
+  border-color: #fbcfe8;
+  box-shadow: 0 12px 30px -5px rgba(230, 0, 126, 0.12), 0 8px 12px -6px rgba(7, 201, 243, 0.08);
   transform: translateY(-2px);
 }
 
-.card-clinical-dark {
-  background: #0c201e;
-  border: 1px solid #1e3e3b;
+.card-aqua-dark {
+  background: #07172c;
+  border: 1px solid #1a3c68;
   box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.4);
   transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.card-clinical-dark:hover {
-  border-color: #066e69;
-  box-shadow: 0 12px 30px -5px rgba(6, 110, 105, 0.3);
+.card-aqua-dark:hover {
+  border-color: #07c9f3;
+  box-shadow: 0 12px 30px -5px rgba(7, 201, 243, 0.25);
   transform: translateY(-2px);
 }
 
@@ -158,7 +164,7 @@ body {
 @keyframes subtlePulse {
   0%, 100% {
     transform: scale(1);
-    opacity: 0.9;
+    opacity: 0.92;
   }
   50% {
     transform: scale(1.04);
@@ -177,14 +183,14 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #f0f4f3;
+  background: #f1f5f9;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #c2d6d4;
+  background: #94a3b8;
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #066e69;
+  background: #e6007e;
 }

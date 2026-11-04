@@ -1,79 +1,46 @@
-# CLÍNICA VIVÁLIA — CENTRO MÉDICO (JUATUBA - MG)
-## Acolhimento Humanizado e Ético · Consultas Especializadas · Pediatria · Clínica Geral · Avaliação 5,0 ★ no Google (71 avaliações)
+# SPLASH PISCINAS LAGOA SANTA — SUA PISCINA DOS SONHOS (EXCLUSIVIDADE iGUi)
+## +500 Famílias Realizadas com Splash · 15 Anos de Garantia iGUi · Piscinas de Fibra · Filtragem Ecológica Pratic · Avaliação 4,1 no Google (40 avaliações)
 
 ---
 
 ### Visão Geral do Projeto
-Landing page institucional de alta autoridade, humanização e conversão desenvolvida em Next.js 16 (App Router) e Tailwind CSS v4, rigorosamente alinhada à identidade visual da marca extraída diretamente do logotipo e das fotos reais da Clínica Vivália em Juatuba - MG:
+Landing page de alta conversão, autoridade e experiência visual imersiva desenvolvida em Next.js 16 (App Router) e Tailwind CSS v4 para a **Splash Piscinas Lagoa Santa**, loja oficial e exclusiva do Grupo iGUi localizada na Av. Acdo. Nilo Figueiredo, 3280 - Dr. Lund, Lagoa Santa - MG.
 
-- **Identidade Visual & Cores:**
-  - **Paleta Primária:** Deep Pine Teal (`#066e69` / `#055955` / `#044441` / `#022927` / `#f0f8f7`), extraído da palavra VIVÁLIA e dos elementos circulares superiores do logotipo.
-  - **Paleta Secundária:** Warm Ochre Gold / Âmbar Acolhedor (`#b3844e` / `#996d3c` / `#d8a46b` / `#fbf7f1`), extraído da inscrição "Clínica Médica" e dos elementos diagonais do logotipo.
-  - **Contraste & Profundidade:** Deep Pine Charcoal (`#051514` / `#0c201e` / `#122c2a` / `#1e3e3b`), Branco Clínico Aséptico (`#ffffff` / `#f8faf9`) e Verde Oficial do WhatsApp (`#16a34a`).
-  - **Tipografia:** Montserrat (cabeçalhos modernos, fortes e acolhedores, em total harmonia com o logotipo) e Plus Jakarta Sans (corpo de texto límpido, de alta legibilidade clínica).
+- **Identidade Visual & Cores (Extraída Diretamente do Logotipo Splash):**
+  - **Paleta Primária (Rosa / Magenta Splash Vibrante):**
+    - `Splash Magenta Principal` (`#e6007e`): Vibração energética, alegria e destaque visual imediato.
+    - `Splash Pink Hover / Deep` (`#c40065` / `#9f004e`): Interatividade e contraste.
+    - `Splash Glow / Destaque` (`#ff1493`): Realce e reflexos líquidos.
+    - `Splash Pink Surface / Mist` (`#fdf2f8` / `#fbcfe8`): Superfícies limpas e acolhedoras.
+  - **Paleta Secundária (Água Cristalina, Gotas & Onda Splash):**
+    - `Vibrant Cyan / Wave Droplets` (`#07c9f3` / `#06b6d4` / `#0891b2`): O frescor da água cristalina e das gotículas do logotipo.
+    - `Cyan Mist / Surface` (`#f0fdff` / `#a5f3fc`): Fundos leves e arejados.
+  - **Paleta Institucional iGUi & Contraste:**
+    - `iGUi Royal Blue` (`#0273f1` / `#0055b8`): A solidez e autoridade internacional da maior rede de piscinas do planeta.
+    - `Deep Ocean Navy` (`#041224` / `#07172c` / `#0d2342`): Contraste escuro sofisticado e profundidade.
+  - **Cores Funcionais & Conversão:**
+    - `WhatsApp Pulsante` (`#16a34a` / `#25d366` / `#15803d`): Botões de ação rápida com mensagem pré-formatada.
+    - `Amber Gold` (`#f59e0b` / `#fbbf24`): Estrelas do Google (4,1 ★) e selos de garantia.
+    - `Branco Puro & Espuma d'Água` (`#ffffff`): Respiro e legibilidade impecável.
 
-- **Topbar de Credibilidade Oficial:**
-  - Selo Google Reviews com 5,0 ★ (nota máxima) e 71 avaliações verificadas de pacientes.
-  - Horário de atendimento: Segunda a Sexta a partir das 08h00.
-  - Localização central: Av. Tânus Saliba, 71A - Centro, Juatuba - MG.
-  - Agendamento ágil e direto pelo WhatsApp: (31) 99662-2315.
+- **Tipografia Coesa & Harmoniosa:**
+  - **Títulos e Headings:** Plus Jakarta Sans (arredondada, moderna, amigável e geométrica, dialogando diretamente com as curvas do logotipo Splash).
+  - **Corpo de Texto:** Plus Jakarta Sans (clareza visual máxima, leitura confortável em qualquer tamanho de tela).
 
-- **Hero Section Humano & Confiável:**
-  - Destaque para a foto oficial do médico Dr. Alessandro Galvão e do espaço aconchegante da clínica.
-  - Headline de alta conversão: união de excelência técnica com o acolhimento humano que o paciente merece.
-  - Badges de autoridade médica: 5,0 ★ no Google, Atendimento Humanizado e Localização Central.
+- **Informações Oficiais de Contato:**
+  - **Razão Social / Nome Comercial:** Splash Piscinas Lagoa Santa (Exclusividade iGUi)
+  - **WhatsApp Direto:** (31) 97529-9630 (`5531975299630`)
+  - **Telefone Fixo:** (31) 3688-0808
+  - **Endereço Físico:** Av. Acdo. Nilo Figueiredo, 3280 - Dr. Lund, Lagoa Santa - MG, CEP 33400-000 (com estacionamento fácil na porta)
+  - **Instagram Oficial:** [@splashlagoasanta](https://www.instagram.com/splashlagoasanta/) (4.892 seguidores · 1.028 posts)
+  - **Site Oficial:** https://www.splashpiscinas.com.br/
+  - **Google Avaliações:** Nota 4,1 com 40 avaliações reais de clientes em Lagoa Santa e região metropolitana
+  - **Horário de Funcionamento:** Segunda a Sexta das 08h às 18h | Sábado das 08h às 13h (Aberto · Fecha 18:00)
 
-- **Barra de Métricas e Autoridade:**
-  - 5,0 ★ no Google (71 avaliações reais de pacientes).
-  - 100% Atendimento Humanizado (Acolhimento da recepção ao consultório).
-  - +10 Especialidades & Serviços de Saúde Integrados.
-  - No Coração de Juatuba (Av. Tânus Saliba, 71A).
-
-- **Catálogo Interativo de Especialidades & Serviços com Modais Detalhados:**
-  1. Clínica Geral & Medicina da Família (Dr. Alessandro Galvão & Dr. Elissander)
-  2. Pediatria & Puericultura (Acolhimento com carinho e paciência que as crianças e mães amam)
-  3. Cardiologia & Saúde do Coração (Prevenção e controle cardiovascular)
-  4. Ginecologia & Saúde Integral da Mulher (Preventivos, endometriose e menopausa)
-  5. Ortopedia & Aparelho Locomotor (Dores articulares, coluna e tendinites)
-  6. Geriatria & Cuidado com a Melhor Idade (Respeito, carinho e autonomia aos idosos)
-  7. Dermatologia Clínica & Cuidado da Pele (Pintas, manchas, acne e alergias)
-  8. Nutrição Clínica & Reeducação Alimentar (Saúde metabólica e emagrecimento sustentável)
-  9. Fisioterapia & Reabilitação Funcional (Alívio da dor e recuperação motora)
-  10. Psicologia Clínica & Saúde Emocional (Apoio terapêutico individual e sigiloso)
-  11. Exames Preventivos & Check-up Diagnóstico (Coletas de rotina e acompanhamento ágil)
-
-- **Diferencial Exclusivo — Vivália Card:**
-  - Cartão de benefícios e convênio próprio da clínica para a população de Juatuba e região, garantindo acesso facilitado a consultas e exames com condições especiais.
-
-- **Seção "Um Sonho se Tornando Realidade no Coração de Juatuba":**
-  - Apresentação da história e missão da clínica, trazendo para Juatuba atendimento humanizado e ético.
-  - Presença dos médicos Dr. Alessandro Galvão e Dr. Elissander.
-  - Link direto para o Instagram oficial (@clinicavivalia) e Linktree.
-
-- **Estrutura Física & Ambiente:**
-  - Apresentação da foto real do corredor com piso em madeira e vegetação natural (Dracenas e plantas ornamentais).
-  - Rotas integradas em 1 clique para Google Maps e Waze.
-
-- **Prova Social com Depoimentos Reais do Google (71 avaliações 5,0 ★):**
-  - Depoimentos autênticos enviados diretamente por pacientes (Alice Santos, Daniella Saliba, Leo Souza, Lucas Santos, Isabela, Jessica Poliane, Glaucilaine, Raquel Rodrigues, etc.).
-
-- **Perguntas Frequentes (FAQ):**
-  - Esclarecimentos práticos sobre agendamento via WhatsApp, especialidades, atendimento a idosos e crianças, convênios e localização.
-
-- **Footer Completo & Botão Flutuante de WhatsApp:**
-  - Disclaimer médico de acordo com a Resolução CFM nº 2.336/2023.
-  - Canal direto e pulsante no WhatsApp para agendamento instantâneo.
-
----
-
-### Informações Oficiais da Clínica
-- **Nome:** Clínica Vivália (Vivália Clínica Médica)
-- **Segmento:** Centro Médico & Consultório Multidisciplinar
-- **Corpo Clínico Citado:** Dr. Alessandro Galvão, Dr. Elissander e Equipe Multidisciplinar de Especialistas
-- **Telefone / WhatsApp:** (31) 99662-2315 (`5531996622315`)
-- **E-mail:** contato@clinicavivalia.com.br
-- **Instagram:** [@clinicavivalia](https://www.instagram.com/clinicavivalia/) (3.367 seguidores)
-- **Linktree:** [linktr.ee/clinicavivalia](https://linktr.ee/clinicavivalia)
-- **Endereço da Sede:** Av. Tânus Saliba, 71A - Centro, Juatuba - MG, CEP 35675-000, Brasil
-- **Classificação Google:** 5,0 ★ (71 avaliações reais)
-- **Horário:** Segunda a Sexta a partir das 08h00
+- **Pilares e Destaques Estratégicos:**
+  1. **Exclusividade iGUi & 15 Anos de Garantia:** A segurança de comprar da maior fabricante de piscinas de fibra do mundo.
+  2. **+500 Famílias Realizadas:** Mais de 500 projetos executados com sucesso em Lagoa Santa, condomínios da região e Grande BH.
+  3. **Sistema de Filtragem Ecológica Pratic:** Filtro inteligente de cartucho que não joga água pelo esgoto e consome menos energia elétrica.
+  4. **Instalação Rápida e Limpa:** Obra sem dor de cabeça, entregue pronta em poucos dias.
+  5. **Aquecimento Solar e Trocadores de Calor:** Água na temperatura ideal os 365 dias do ano.
+  6. **Loja Física na Av. Acdo. Nilo Figueiredo:** Amplo estoque de químicos, acessórios e consultoria especializada.
